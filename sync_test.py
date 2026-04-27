@@ -5,7 +5,7 @@
 # 3. Come back to PixelPad and tap "↓ Pull File".
 # 4. Tap RUN to see your changes!
 
-cloud_version = "1.0"
+cloud_version = "2.0"
 message = "Testing the initial push from the phone."
 
 def run_test():
